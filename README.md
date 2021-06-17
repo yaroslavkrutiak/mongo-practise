@@ -1,4 +1,4 @@
-# mongo-practise/homework
+# mongo-practise
 
 ### Installation
 1. Clone repo
